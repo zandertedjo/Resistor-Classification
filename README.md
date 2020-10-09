@@ -1,1 +1,4 @@
-# Resistor-Classification-Image-Processing
+# Resistor-Classification
+
+Digital Image Processing
+Machine Learning
